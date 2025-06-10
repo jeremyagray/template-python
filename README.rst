@@ -2,7 +2,7 @@
 ..
 .. template-python, python project template
 ..
-.. Copyright 2023-2024 Jeremy A Gray <gray@flyquackswim.com>.
+.. Copyright 2023-2025 Jeremy A Gray <gray@flyquackswim.com>.
 ..
 .. All rights reserved.
 ..
@@ -33,7 +33,7 @@ SPDX-License-Identifier: `GPL-3.0-or-later <https://spdx.org/licenses/GPL-3.0-or
 
 template-python, python project template
 
-Copyright (C) 2023-2024 `Jeremy A Gray <gray@flyquackswim.com>`_.
+Copyright 2023-2025 `Jeremy A Gray <gray@flyquackswim.com>`_.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

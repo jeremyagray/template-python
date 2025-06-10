@@ -2,7 +2,7 @@
 #
 # template-python, python project template
 #
-# Copyright 2023-2024 Jeremy A Gray <gray@flyquackswim.com>.
+# Copyright 2023-2025 Jeremy A Gray <gray@flyquackswim.com>.
 #
 # All rights reserved.
 #
